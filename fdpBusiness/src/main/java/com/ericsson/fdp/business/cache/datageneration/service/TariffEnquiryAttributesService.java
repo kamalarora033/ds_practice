@@ -1,0 +1,15 @@
+package com.ericsson.fdp.business.cache.datageneration.service;
+
+import javax.ejb.Remote;
+
+import com.ericsson.fdp.business.cache.MetaDataService;
+
+/**
+ * The Interface TariffService.java.
+ *
+ * @author Ericsson
+ */
+@Remote
+public interface TariffEnquiryAttributesService extends MetaDataService {
+
+}

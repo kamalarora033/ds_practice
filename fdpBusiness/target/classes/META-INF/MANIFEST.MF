@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: GUR47640
+Build-Jdk: 1.7.0_80
+Created-By: Maven Integration for Eclipse
+Dependencies: org.jboss.msc,
+ 								org.jboss.as.clustering.singleton,
+ 								org.jboss.as.server
+
